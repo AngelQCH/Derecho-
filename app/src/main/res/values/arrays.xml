@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="departamentos">
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+    </integer-array>
+    <integer-array name="imageMochilero">
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+        <item>@drawable/derecho</item>
+    </integer-array>
+    <string-array name="dep">
+        <item>Derecho Civil</item>
+        <item>Derecho Penal</item>
+        <item>Derecho de Familia</item>
+        <item>Derecho Comercial</item>
+        <item>Derecho Internacional</item>
+    </string-array>
+    <string-array name="categoriamochilero">
+        <item>Gastronomía</item>
+        <item>Historia</item>
+        <item>Vistas</item>
+        <item>Cultura</item>
+        <item>Monumentos</item>
+        <item>Eventos</item>
+    </string-array>
+    <string-array name="cultura">
+        <item>Viviendas en forma de cono (Cultura Uru)</item>
+        <item>Putukus</item>
+        <item>Lapakas</item>
+        <item>Irpaka</item>
+        <item>Putukus</item>
+
+        <item>Según las historias el nevado Sajama es:</item>
+        <item>La cabeza del Mururata</item>
+        <item>Un gigante dormido</item>
+        <item>Una lágrima de Wiracocha</item>
+        <item>La cabeza del Mururata</item>
+
+        <item>Nombre del Teatro Municipal de La Paz</item>
+        <item>Alberto Saavedra Pérez</item>
+        <item>Pedro Domingo Murillo</item>
+        <item>Alberto Saavedra Pérez</item>
+        <item>Julio Borelli Vitterito</item>
+
+        <item>La casa de Pedro Domingo Murillo se ubica en:</item>
+        <item>Calle Jaen</item>
+        <item>Avenida Manco Kapac</item>
+        <item>Calle Jaen</item>
+        <item>Calle Landaeta</item>
+
+        <item>Famoso nevado Protector de La Paz</item>
+        <item>Illimani</item>
+        <item>Mururata</item>
+        <item>Huayna Potosí</item>
+        <item>Illimani</item>
+
+        <item>Característica de la Plaza Murillo</item>
+        <item>Abundancia de Palomas</item>
+        <item>Combate de gladiadores</item>
+        <item>Abundancia de Palomas</item>
+        <item>Las mejores tucumanas de la ciudad</item>
+
+        <item>La "Puerta del Sol" se ubica en:</item>
+        <item>Tiahuanaco</item>
+        <item>Yungas</item>
+        <item>Ixiamas</item>
+        <item>Tiahuanaco</item>
+
+        <item>Mítico Lago Inca ubicado en La Paz</item>
+        <item>Titicaca</item>
+        <item>Titicaca</item>
+        <item>Laguna Colorada</item>
+        <item>Lago Wiracocha</item>
+
+        <item>Famosos educadores urbanos de la ciudad</item>
+        <item>Cebritas</item>
+        <item>Cebritas</item>
+        <item>Mr. Cuthulu</item>
+        <item>Vizcachas</item>
+
+        <item>Sitio arqueológico que expone pinturas rupestres en Oruro</item>
+        <item>Cala Cala</item>
+        <item>Yarvicoya</item>
+        <item>Krakatoa</item>
+        <item>Cala Cala</item>
+
+        <item>Danza típica de Oruro</item>
+        <item>Diablada</item>
+        <item>Pujllay</item>
+        <item>Llamerada</item>
+        <item>Diablada</item>
+    </string-array>
+    <string-array name="gastronomia">
+        <item>Plato Típico de La Paz</item>
+        <item>Plato Paceño</item>
+        <item>Plato Paceño</item>
+        <item>Ají de Fideo</item>
+        <item>Tucumanas</item>
+
+        <item>Plato típico de Oruro</item>
+        <item>Charkecan</item>
+        <item>Falsa Vizcacha</item>
+        <item>Picante del Diablo</item>
+        <item>Charkecan</item>
+
+        <item>El elemento principal del "Charkecan" es:</item>
+        <item>Carne de llama deshidratada (charke)</item>
+        <item>Chicharron de cerdo</item>
+        <item>Huacatalla (hierba aromática)</item>
+        <item>Carne de llama deshidratada (charke)</item>
+    </string-array>
+    <string-array name="destinos">
+        <item>En Oruro se encuentra el Salar de:</item>
+        <item>Coipasa</item>
+        <item>Coipasa</item>
+        <item>Poopó</item>
+        <item>Uru</item>
+
+    </string-array>
+    <string-array name="historia">
+        <item>Primer Colegio de Bolivia</item>
+        <item>Colegio Nacional de Ciencias Letras y Artes "San Simón de Ayacucho"</item>
+        <item>Colegio Nacional Junín</item>
+        <item>Colegio Nacional de Ciencias Letras y Artes "San Simón de Ayacucho"</item>
+        <item>Colegio Nacional Pichincha</item>
+
+        <item>¿Cuántas provincias tiene el Departamento de La Paz?</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+
+        <item>Plaza principal de Oruro</item>
+        <item>Plaza 10 de Febrero</item>
+        <item>Plaza del Socavón</item>
+        <item>Plaza 10 de Febrero</item>
+        <item>Plaza Sebastián Pagador</item>
+
+        <item>El Faro de Conchupata es famoso por:</item>
+        <item>Ahí se izó por primera vez la Tricolor Boliviana</item>
+        <item>Ahí se izó por primera vez la Tricolor Boliviana</item>
+        <item>Allí se proclamó la independencia de Bolivia</item>
+        <item>Es la sede del Observatorio Astronómico Nacional</item>
+
+        <item>¿Qué se recuerda el 10 de Febrero?</item>
+        <item>Grito Libertario dirigido por Sebastián Pagador</item>
+        <item>Fundación de la ciudad</item>
+        <item>Grito Libertario dirigido por Sebastián Pagador</item>
+        <item>Aniversario de la primera red Ferroviaria</item>
+    </string-array>
+    <string-array name="florafauna">
+        <item>Ave emblema del escudo nacional</item>
+        <item>Cóndor</item>
+        <item>Cóndor</item>
+        <item>Águila Calva</item>
+        <item>Flamenco</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DerechoBolivia</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo">Ozymandias por Percy Byshe Shelly</string>
+    <string name="ozymandias">Conocí a un viajero de una tierra extraña que dijo:
+    Dos enormes piernas pétreas sin su tronco, se yergen en el desierto, a su lado yace un rostro hecho pedazos
+    cuyo seño y mueca en la boca y desdén de frío dominio, cuenta que su escultor comprendio bien estas pasiones,
+    las cuales aún sobreviven, a las manos que las tallaron y al corazón que las alimentó,
+    y a su lado en el pedestal se leen estas palabras: \n
+    Mi nombre es Ozymandias, Rey de Reyes, contemplad mis obras poderosos y desesperad.\n
+    Nada queda a su lado, alrededor de las colosales ruinas, infinitas y desnudas se extienden a lo lejos las bastas y llanas arenas</string>
+</resources>
